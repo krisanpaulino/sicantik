@@ -1,0 +1,10 @@
+.login-page {
+	background-image: url(photo4.png);
+	/* background-color: rgb(172, 185, 189); */
+	box-shadow: rgb(194, 75, 75);
+	background-size: cover;
+	color: rgb(255, 255, 255);
+}
+.card-background {
+	background-color: rgb(164, 192, 192);
+}
